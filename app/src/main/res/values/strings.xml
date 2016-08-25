@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlueToothHeadphone</string>
+    <string name="normal">正常</string>
+    <string name="high">高</string>
+    <string name="low">低</string>
+    <string name="isolated_systolic_hypertension">isolated_systolic_hypertension</string>
+    <string name="connected">连接</string>
+    <string name="disconnected">断开连接</string>
+</resources>
